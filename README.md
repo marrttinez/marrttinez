@@ -8,8 +8,7 @@ This GitHub profile is where I’ll be documenting my journey — sharing person
 
 ## 🚀 Technologies I'm exploring
 - 🐍 Python & Django  
-- 🗃️ PostgreSQL  
-- 🐘 PHP (Laravel)  
+- 🗃️ PostgreSQL
 - 🌐 HTML, CSS, JavaScript  
 - 🧠 Git, GitHub, Bash
 
